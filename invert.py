@@ -1,3 +1,5 @@
+# Flip a string
+
 def invert(str):
     inv = ''
     for i in range(len(str)):
