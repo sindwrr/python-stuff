@@ -1,3 +1,5 @@
+## База данных библиотеки и графическое приложение для управления БД
+
 from tkinter import *
 from tkinter import messagebox
 import psycopg2 as ps
