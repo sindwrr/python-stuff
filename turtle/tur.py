@@ -1,3 +1,5 @@
+# Случайное движение черепашки
+
 import turtle
 import os
 from random import random
