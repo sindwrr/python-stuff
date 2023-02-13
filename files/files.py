@@ -1,6 +1,8 @@
+# Работа с файлом
+
 FILE = 'pi.txt'
 
-with open(FILE) as file_object: # with closes the file
+with open(FILE) as file_object:
     contents = file_object.read()
 
 print(contents.rstrip())
