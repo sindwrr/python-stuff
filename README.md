@@ -1,3 +1,3 @@
 # stuff
 
-My repository with random code files (specifically Python).
+My repository with random code files (specifically written using Python).
